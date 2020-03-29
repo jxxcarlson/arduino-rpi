@@ -1,4 +1,8 @@
         
+# File.arduino.py
+# For Raspbery Pi
+# Run with 'sudo python arduino.py'
+
 import serial
 import RPi.GPIO as GPIO
 import time
