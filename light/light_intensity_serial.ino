@@ -35,12 +35,12 @@
  */
  
  
-double k = 5.0/1024;
-double luxFactor = 500000;
-double R2 = 10000;
-double LowLightLimit = 200; 
-double B = 1.25*pow(10.0,7);
-double m = -1.4059;
+const double k = 5.0/1024;
+const double luxFactor = 500000;
+const double R2 = 10000;
+const double LowLightLimit = 200; 
+const double B = 1.25*pow(10.0,7);
+const double m = -1.4059;
 
 const int LED = 7;
 
