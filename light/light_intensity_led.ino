@@ -1,4 +1,5 @@
-int sensorValue ;
+// [Reference (YouTube video)](https://www.youtube.com/watch?v=jIkQAUCc7Fk)int sensorValue ;
+                                                   
 int threshold;
 
 void setup () {
