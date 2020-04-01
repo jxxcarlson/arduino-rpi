@@ -4,3 +4,5 @@
 
 [Better reference for LED as light sensor](https://wiki.analog.com/university/courses/electronics/electronics-lab-led-sensor)
 
+[Sparkfun](https://www.sparkfun.com/news/2161)
+
