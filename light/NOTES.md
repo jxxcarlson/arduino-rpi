@@ -6,3 +6,5 @@
 
 [Sparkfun](https://www.sparkfun.com/news/2161)
 
+[Make Magazine](https://makezine.com/projects/make-36-boards/how-to-use-leds-to-detect-light/)
+
