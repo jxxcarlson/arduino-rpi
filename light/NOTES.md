@@ -2,3 +2,5 @@
 
 [YouTube video showing how to use LED as a sensor](https://www.youtube.com/watch?v=jIkQAUCc7Fk)
 
+[Better reference for LED as light sensor](https://wiki.analog.com/university/courses/electronics/electronics-lab-led-sensor)
+
