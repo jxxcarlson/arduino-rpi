@@ -8,3 +8,9 @@
 
 [Make Magazine](https://makezine.com/projects/make-36-boards/how-to-use-leds-to-detect-light/)
 
+[Another one, with op amp](https://www.electronicsforu.com/electronics-projects/led-light-sensor)
+
+[Electronics Stack Exchange](https://electronics.stackexchange.com/questions/902/detecting-light-with-an-led)
+
+[Another op amp example](http://www.users.waitrose.com/~robinjames/LED_as_light_sensor/LED_as_light_sensor.html)
+
